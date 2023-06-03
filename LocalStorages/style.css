@@ -1,0 +1,21 @@
+/* input,button{
+    padding: 10px;
+    height: 30px;
+    background-color: antiquewhite;
+}
+fieldset{
+    margin-bottom: 20px;
+    background-color: azure;
+} */
+.bg-color-gray{
+    background-color: beige;
+}
+.btn-color{
+    background-color: antiquewhite;
+}
+.bg-color-op{
+    background-color: azure;
+}
+.bg-color-botton{
+    background-color: beige;
+}
